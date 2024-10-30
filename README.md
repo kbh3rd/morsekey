@@ -1,6 +1,7 @@
 # morsekey
 Decode Morse Code tapped into an Arduino with a straight (telegraph) key.  Details of the hardware
-and more are documented at https://egb13.net/morse-code-decoder
+and more are documented at https://egb13.net/morse-code-decoder - except that site is currently down.
+But here is [a video demonstration](https://youtu.be/MwUTLFZVcHY?si=3VG576jMB5DCvc94) of it in use.
 
 Read dits and dahs on an Arduino pin connected to a telegraph key, decode the Morse Code, and display
 the text on an LCD 16x2 character display.
